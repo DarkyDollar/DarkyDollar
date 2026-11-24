@@ -7,10 +7,10 @@ Working on AAA titles, with a background in marketing, video and design. I like 
 
 #### What I do
 
-- 🎮 **Game development**: C++ and Unreal Engine for AAA productions
-- 🎬 **Real-time & motion**: 3D product visualisation, motion graphics and video
-- 🎨 **Design**: visual identity, UI and content for brands
-- 📈 **Marketing & SEO**: strategy, content and growth for digital products
+-  **Game development**: C++ and Unreal Engine for AAA productions
+-  **Real-time & motion**: 3D product visualisation, motion graphics and video
+-  **Design**: visual identity, UI and content for brands
+-  **Marketing & SEO**: strategy, content and growth for digital products
 
 #### Tech
 
