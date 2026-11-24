@@ -1,4 +1,4 @@
-### Hi there 👋
+### Nice to meet you!
 
 **Game developer · C++ · Unreal Engine**
 Working on AAA titles, with a background in marketing, video and design. I like building things that look good *and* run well.
